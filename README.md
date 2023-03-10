@@ -1,5 +1,5 @@
 # Problema-rucsacului-Algoritmi-Greedy
-Problema rucsacului
+
 Intr-un rucsac se pot transporta obiecte cu greutate insumata maxima = Gmax.  
 Exista N obiecte – fiecare avand o greutate specifica gi si care aduc un anumit castig/profit daca sunt puse in rucsac – pi. 
 
